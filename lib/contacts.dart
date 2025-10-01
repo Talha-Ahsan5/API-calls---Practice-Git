@@ -15,7 +15,8 @@ class Contacts extends StatelessWidget {
           Center(
             child: Text('Contact page'),
           ),
-          Text('Check Git add'),
+          Text('Check git add'),
+          Text('Check git pull'),
         ],
       ),
     );
