@@ -49,6 +49,7 @@ class _HomeScreenState extends State<Homescreen> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: fetchusers,
+        backgroundColor: Colors.blueGrey,
         child: Text('Reload!'),
       ),
     );
