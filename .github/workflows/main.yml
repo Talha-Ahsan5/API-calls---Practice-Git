@@ -25,7 +25,7 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.24.0' # or your current version
+          flutter-version: '3.32.8' # or your current version
 
       # 4. Accept Android licenses
       - name: Accept Android licenses
